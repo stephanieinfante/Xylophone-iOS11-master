@@ -1,4 +1,10 @@
 # Xylophone
+UserName: Stephanie Infante
+
+Student Id: 1057120
+
+DAte Completed: September 26, 2018
+
 Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9)
 
 Beginner: Download the starter project files as .zip and extract the files to your desktop.
